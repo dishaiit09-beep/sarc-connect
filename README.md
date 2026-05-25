@@ -72,6 +72,12 @@ src/
 public/
   assets/
 
+## Approach
+
+The website was designed as a digital gateway for SARC rather than a static information page. The Home page introduces the complete SARC ecosystem through portfolio cards, the Events page uses real visual media to show event energy, and the Impact page includes interactive elements to represent student-alumni engagement.
+
+The project uses reusable React components such as Navbar, EventCard, Carousel and PathFinder to keep the code modular. React state is used for the carousels and the Find Your Path recommendation tool.
+
 ## Author
 
 Disha Agarwal
